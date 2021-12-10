@@ -18,6 +18,9 @@
     <div id="body-main-2">
       <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
       <P>Check Back soon...</P>
+      <a href="https://blackpilldiaries.substack.com"
+        >Meanwhile check out my substack!</a
+      >
     </div>
     <div id="body-main-3">
       <div></div>
