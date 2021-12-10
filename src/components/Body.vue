@@ -16,11 +16,16 @@
       <div></div>
     </div>
     <div id="body-main-2">
-      <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
-      <P>Check Back soon...</P>
-      <a href="https://blackpilldiaries.substack.com"
-        >Meanwhile check out my substack!</a
-      >
+      <div id="main-row-1">
+        <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
+        <P>Check Back soon...</P>
+        <a href="https://blackpilldiaries.substack.com"
+          >Meanwhile check out my substack!</a>
+      </div>
+      <div id="main-row-2"></div>
+      <div id="main-row-3">
+        <p2>&#169; 2021 Indications Media</p2>
+      </div>
     </div>
     <div id="body-main-3">
       <div></div>
@@ -41,7 +46,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+
+};
 </script>
 
 <style scoped>
@@ -64,6 +71,8 @@ export default {};
   border-radius: 10px;
   font-family: "Permanent Marker", cursive;
   text-align: center;
+  display: grid;
+  grid-template-rows: 2fr 2fr 0.5fr;
 }
 #body-main-3 {
   background-color: #91a1ba;
@@ -71,5 +80,9 @@ export default {};
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   /* align-items: center; */
+}
+p2 {
+  font-family:"Bebas Neue", cursive;
+;
 }
 </style>
