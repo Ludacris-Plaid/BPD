@@ -74,7 +74,7 @@ export default {
   font-family: "Permanent Marker", cursive;
   text-align: center;
   display: grid;
-  grid-template-rows: 2fr 2fr 0.5fr;
+  grid-template-rows: 2fr 2fr .2 fr;
 }
 #body-main-3 {
   background-color: #91a1ba;
