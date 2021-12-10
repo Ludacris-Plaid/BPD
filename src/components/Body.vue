@@ -16,8 +16,8 @@
       <div></div>
     </div>
     <div id="body-main-2">
-        <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
-        <P>Check Back soon...</P>
+      <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
+      <P>Check Back soon...</P>
     </div>
     <div id="body-main-3">
       <div></div>
@@ -59,6 +59,8 @@ export default {};
 #body-main-2 {
   background-color: #91a1ba75;
   border-radius: 10px;
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
 }
 #body-main-3 {
   background-color: #91a1ba;
