@@ -19,6 +19,8 @@
       <div id="main-row-1">
         <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
         <P>Check Back soon...</P>
+        <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.uq5HvfHzAPbpdRFMJuVS6AHaLL%26pid%3DApi&f=1">
+        <br>
         <a href="https://blackpilldiaries.substack.com"
           >Meanwhile check out my substack!</a>
       </div>
@@ -84,5 +86,8 @@ export default {
 p2 {
   font-family:"Bebas Neue", cursive;
 ;
+}
+#main-row-1{
+  align-items: center;
 }
 </style>
