@@ -15,7 +15,10 @@
       </div>
       <div></div>
     </div>
-    <div id="body-main-2"></div>
+    <div id="body-main-2">
+        <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
+        <P>Check Back soon...</P>
+    </div>
     <div id="body-main-3">
       <div></div>
       <div id="center">
