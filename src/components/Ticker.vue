@@ -3,26 +3,25 @@
     <div class="hwrap">
       <div class="hmove">
         <div class="hitem">
-          We are living in an inverted reality --the clownworld.
+          We are living in an inverted reality -- the clownworld.
         </div>
         <div class="hitem">
-          Nothing makes sense in the clownworld --it's been designed that way.
+          Nothing makes sense in the clownworld -- it's been designed that way.
         </div>
         <div class="hitem">
           The COVID-1984 scamdemic is being utilized to destroy our freedoms
-          --and our very way of life!
+          -- and is being run by parasitic tyrants!
         </div>
         <div class="hitem">
-          We are being lied to by design --this IS World War 3 and humanity is
-          losing.
+          We are being lied to by design -- this is a new asymmetrical information style of warfare. 
         </div>
         <div class="hitem">
-          Yesterday's conspiracy theory is today's conspiracy fact--this is
+          Yesterday's conspiracy theory is today's conspiracy fact -- this is
           undeniable.
         </div>
         <div class="hitem">
           "If the situation was hopeless, their propaganda would be
-          unnecessary." -- Unknown
+          unnecessary." -- Unknown Author
         </div>
         <div class="hitem">
           Our compliance has gotten us to this point -- STOP COMPLYING!
@@ -32,11 +31,10 @@
         </div>
         <div class="hitem">
           Will you concede the freedoms prior generations died for -- without a
-          peep?
+          fight?
         </div>
         <div class="hitem">
-          Or will you make a stand for yourself and your children -- for
-          humanity?
+        Be loud.  Get Angry.  Become ungovernable. -- NEVER COMPLY!
         </div>
       </div>
     </div>
