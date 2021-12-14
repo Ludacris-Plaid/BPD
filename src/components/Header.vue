@@ -55,8 +55,5 @@ p {
     display: inline-flex;
 
   }
-  img {
-    display: none;
-  }
 }
 </style>
