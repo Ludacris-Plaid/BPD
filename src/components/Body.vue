@@ -74,9 +74,10 @@
         <br />
         <p2
           >From the Nazi's down under here is an Australian Premier going off on
-          "Anti-Vaxxers'. Like it's ilegal or something to be ashamed of. Yeah I'm anti-this-vaxx
-          you degenerate little puke and I'm anti lying demons like yourself. Imagine shilling for a fauxine THAT
-          DOESN'T EVEN WORK.</p2
+          "Anti-Vaxxers'. Like it's ilegal or something to be ashamed of. Yeah
+          I'm anti-this-vaxx you degenerate little puke and I'm anti lying
+          demons like yourself. Imagine shilling for a fauxine THAT DOESN'T EVEN
+          WORK.</p2
         >
         <br />
         <iframe
@@ -91,7 +92,8 @@
         <br />
         <p2>
           Wonder how much this prick is geting paid by Pfizer. Hopefully it's
-          enough to buy the ganga the therapy this snapshow so obviously needs.</p2
+          enough to buy the ganga the therapy this snapshow so obviously
+          needs.</p2
         >
         <br />
         <p2>CLOWNWORLD AUSTRALIAN STYLE</p2>
@@ -102,7 +104,8 @@
           >Need some help navigating the CLOWNWORLD? Do you have questions about
           how we got here? Adam Curtis (Century of the Self) breaks down his
           theory on society that he calls hypernormalization. All of his work is
-          stunning and genius but this could be the most important documentary you'll ever see.</p2
+          stunning and genius but this could be the most important documentary
+          you'll ever see.</p2
         >
         <br />
         <iframe
@@ -116,7 +119,10 @@
         ></iframe>
         <br />
         <p2>This is an absolute must see if you need answers.</p2>
-        <br>
+        <br />
+        <br />
+        <p>---------------</p>
+        <br />
         <a href="https://blackpilldiaries.substack.com"
           >Meanwhile check out my substack!</a
         >
@@ -197,7 +203,6 @@ p2 {
   }
 }
 iframe {
- 
   border-radius: 10px;
 }
 </style>
