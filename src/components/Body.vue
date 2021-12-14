@@ -91,7 +91,7 @@
         <br />
         <p2>
           Wonder how much this prick is geting paid by Pfizer. Hopefully it's
-          enough to buy the buds this snapshow so obviously needs.</p2
+          enough to buy the ganga this snapshow so obviously needs.</p2
         >
         <br />
         <p2>CLOWNWORLD AUSTRALIAN STYLE</p2>
