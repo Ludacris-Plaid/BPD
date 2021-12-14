@@ -92,7 +92,7 @@
         <br />
         <p2>
           Wonder how much this prick is geting paid by Pfizer. Hopefully it's
-          enough to buy the ganga the therapy this snapshow so obviously
+          enough to buy the ganga and the therapy this snapshow so obviously
           needs.</p2
         >
         <br />
