@@ -213,6 +213,7 @@ iframe {
 }
 small {
   font-family: "Bebas Neue", cursive;
+  font-size: 20px;
 
 }
 a:link {
@@ -221,4 +222,5 @@ a:link {
 /* a:hover {
   text-decoration:blue;
 } */
+
 </style>
