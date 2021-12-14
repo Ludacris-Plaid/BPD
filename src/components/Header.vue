@@ -50,4 +50,10 @@ p {
   font-family: "Bebas Neue", cursive;
   font-size: 4vh;
 }
+@media screen and (min-width :400px){
+  #header-box {
+    display: inline-flex;
+
+  }
+}
 </style>
