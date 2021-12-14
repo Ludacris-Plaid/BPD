@@ -18,6 +18,11 @@
     <div id="body-main-2">
       <div id="main-row-1">
         <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
+        <br />
+        <h2>I encourage you to check out my substack!</h2>
+        <a href="https://blackpilldiaries.substack.com"
+          ><small>The Black Pill Diaries on Substack</small></a
+        >
         <p>---------------</p>
         <p2
           >Here is a perfect example of the clownworld. Watch as a Canadian MP
@@ -123,13 +128,10 @@
         <br />
         <p>---------------</p>
         <br />
-        <a href="https://blackpilldiaries.substack.com"
-          >Meanwhile check out my substack!</a
-        >
       </div>
       <div id="main-row-2"></div>
       <div id="main-row-3">
-        <!-- <P>Check Back soon...</P> -->
+        <P>Check Back soon...</P>
         <p2>&#169; 2021 Indications Media</p2>
       </div>
     </div>
@@ -186,7 +188,7 @@ export default {};
   /* align-items: center; */
 }
 p2 {
-  font-family: "Bebas Neue", cursive;
+  font-family:"Permanent Marker", cursive
 }
 #main-row-1 {
   align-items: center;
@@ -206,4 +208,14 @@ iframe {
   border-radius: 10px;
   width: 100%;
 }
+small {
+  font-family: "Bebas Neue", cursive;
+
+}
+a:link {
+  text-decoration: none;
+}
+/* a:hover {
+  text-decoration:blue;
+} */
 </style>
