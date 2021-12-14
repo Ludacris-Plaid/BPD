@@ -74,8 +74,8 @@
         <br />
         <p2
           >From the Nazi's down under here is an Australian Premier going off on
-          "Anti-Vaxxers'. Like it's ilegal or some shit. Yeah I'm anti-this-vaxx
-          you degenerate little puke. Imagine shilling for a fauxine THAT
+          "Anti-Vaxxers'. Like it's ilegal or something to be ashamed of. Yeah I'm anti-this-vaxx
+          you degenerate little puke and I'm anti lying demons like yourself. Imagine shilling for a fauxine THAT
           DOESN'T EVEN WORK.</p2
         >
         <br />
@@ -91,7 +91,7 @@
         <br />
         <p2>
           Wonder how much this prick is geting paid by Pfizer. Hopefully it's
-          enough to buy the ganga this snapshow so obviously needs.</p2
+          enough to buy the ganga the therapy this snapshow so obviously needs.</p2
         >
         <br />
         <p2>CLOWNWORLD AUSTRALIAN STYLE</p2>
@@ -115,7 +115,7 @@
           allowfullscreen
         ></iframe>
         <br />
-        <p2>But this is a must see if you need answers.</p2>
+        <p2>This is an absolute must see if you need answers.</p2>
         <br>
         <a href="https://blackpilldiaries.substack.com"
           >Meanwhile check out my substack!</a
