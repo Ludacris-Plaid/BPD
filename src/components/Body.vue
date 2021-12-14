@@ -23,6 +23,9 @@
         <a href="https://blackpilldiaries.substack.com"
           ><small>The Black Pill Diaries on Substack</small></a
         >
+        <br>
+        <br>
+        <a href="mailto:indicationsmedia@protonmail.com"><small>Email The Black Pill Diaries</small></a>
         <p>---------------</p>
         <p2
           >Here is a perfect example of the clownworld. Watch as a Canadian MP
