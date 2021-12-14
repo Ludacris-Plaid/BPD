@@ -196,4 +196,8 @@ p2 {
     display: none;
   }
 }
+iframe {
+ 
+  border-radius: 10px;
+}
 </style>
