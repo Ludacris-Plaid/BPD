@@ -204,5 +204,6 @@ p2 {
 }
 iframe {
   border-radius: 10px;
+  width: 100%;
 }
 </style>
