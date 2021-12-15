@@ -91,7 +91,7 @@
           >From the Nazi's down under here is an Australian Premier going off on
           "Anti-Vaxxers'. Like it's illegal.  Imagine calling someone who has taken this bioweapon TWICE an "anti-vaxxer"!  What a retard! Yeah
           I'm anti-this-vaxx you degenerate little puke and I'm anti lying
-          demons like yourself. Imagine shilling for a fauxine THAT DOESN'T EVEN
+          demons like yourself. Imagine shilling this hard for a fauxine THAT DOESN'T EVEN
           WORK.</p2
         >
         <br />
