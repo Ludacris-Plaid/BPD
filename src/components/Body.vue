@@ -48,7 +48,7 @@
         ></iframe>
         <br />
         <p2
-          >Not one of these bafoons making 200k a year is even brave enough to
+          >Not one of these buffoons making 200k a year is even brave enough to
           speak up.</p2
         >
         <br />
@@ -64,7 +64,7 @@
           We then get the amazing CLOWNWORLD response from a perfect example of
           a Clown the Ontario Minister of Health Christine Elliott. "The fauxine
           is safe (LIES -- it's not) and effective (MORE LIES -- it's not) and pregnant women should take this dangerous experimental gene
-          therapy!"" (said no one ever...except this clown.)</p2
+          therapy!" (said no one ever...except apperently this clown.)</p2
         >
         <br />
         <iframe
