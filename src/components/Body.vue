@@ -143,8 +143,8 @@
           are being built as we speak and will be used to detain Canadians.</p2
         >
         <iframe
-          width="1280"
-          height="720"
+          width="760"
+          height="430"
           src="https://www.youtube.com/embed/yxP0YReuxRk"
           title="YouTube video player"
           frameborder="0"
@@ -168,8 +168,8 @@
           situation in a hilarious way!</p2
         >
         <iframe
-          width="1280"
-          height="720"
+          width="760"
+          height="430"
           src="https://www.youtube.com/embed/_6MVo8sItio"
           title="YouTube video player"
           frameborder="0"
@@ -183,8 +183,16 @@
           emerged from the CLOWNWORLD!</p2
         >
         <br />
-        <br />
         <p>---------------</p>
+        <br>
+        <img src="/science_meme.jpg">
+        <br>
+        <p>---------------</p>  
+        <br>
+        <img src= "/MSMnews_meme.jpg">
+        <br>
+        <p>---------------</p>  
+        <br>                 
       </div>
       <div id="main-row-2"></div>
       <div id="main-row-3">
