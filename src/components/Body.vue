@@ -63,8 +63,9 @@
           riding. For daring to queston the fauxine he is heckled by his peers.
           We then get the amazing CLOWNWORLD response from a perfect example of
           a Clown the Ontario Minister of Health Christine Elliott. "The fauxine
-          is safe (LIES -- it's not) and effective (MORE LIES -- it's not) and pregnant women should take this dangerous experimental gene
-          therapy!" (said no one ever...except apperently this clown.)</p2
+          is safe (LIES -- it's not) and effective (MORE LIES -- it's not) and
+          pregnant women should take this dangerous experimental gene therapy!"
+          (said no one ever...except apperently this clown.)</p2
         >
         <br />
         <iframe
@@ -88,10 +89,11 @@
         <br />
         <p2
           >From the Nazi's down under here is an Australian Premier going off on
-          "Anti-Vaxxers'. Like it's illegal.  Imagine calling someone who has taken this bioweapon TWICE an "anti-vaxxer"!  What a retard! Yeah
-          I'm anti-this-vaxx you degenerate little puke and I'm anti lying
-          demons like yourself. Imagine shilling this hard for a fauxine THAT DOESN'T EVEN
-          WORK.</p2
+          "Anti-Vaxxers'. Like it's illegal. Imagine calling someone who has
+          taken this bioweapon TWICE an "anti-vaxxer"! What a retard! Yeah I'm
+          anti-this-vaxx you degenerate little puke and I'm anti lying demons
+          like yourself. Imagine shilling this hard for a fauxine THAT DOESN'T
+          EVEN WORK.</p2
         >
         <br />
         <iframe
@@ -184,11 +186,29 @@
         >
         <br />
         <p>---------------</p>
-        <br>
-        <img src= "/MSMnews_meme.jpg">
-        <br>
-        <p>---------------</p>  
-        <br>                 
+        <br />
+        <img src="/MSMnews_meme.jpg" />
+        <br />
+        <p>---------------</p>
+        <br />
+        <br />
+        <iframe
+          src="https://giphy.com/embed/VbEloWwOz3QqYBsqIZ"
+          width="480"
+          height="480"
+          frameBorder="0"
+          class="giphy-embed"
+          allowFullScreen
+        ></iframe>
+        <p>
+          <a
+            href="https://giphy.com/gifs/OTHERCOLORS-matrix-illusion-already-been-made-VbEloWwOz3QqYBsqIZ"
+            >via GIPHY</a
+          >
+        </p>
+        <br />
+        <p>---------------</p>
+        <br />
       </div>
       <div id="main-row-2"></div>
       <div id="main-row-3">
