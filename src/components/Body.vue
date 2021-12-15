@@ -21,11 +21,11 @@
         <br />
         <h2>I encourage you to check out my substack!</h2>
         <a href="https://blackpilldiaries.substack.com"
-          ><small>The Black Pill Diaries on Substack</small></a
+          ><small>The Black PillDiaries on Substack</small></a
         >
         <br>
         <br>
-        <a href="mailto:indicationsmedia@protonmail.com"><small>Email The Black Pill Diaries</small></a>
+        <a href="mailto:indicationsmedia@protonmail.com"><small>Email The BlackPill Diaries</small></a>
         <p>---------------</p>
         <p2
           >Here is a perfect example of the clownworld. Watch as a Canadian MP
@@ -219,8 +219,8 @@ small {
 a:link {
   text-decoration: none;
 }
-/* a:hover {
-  text-decoration:blue;
-} */
+a:hover {
+  text-decoration: underline;
+}
 
 </style>
