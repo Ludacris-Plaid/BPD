@@ -52,16 +52,16 @@
           speak up.</p2
         >
         <br />
-        <p2> Clownworld at it's absolute finest.</p2>
+        <p2> CLOWNWORLD at it's absolute finest.</p2>
         <br />
         <p>---------------</p>
         <br />
         <p2
-          >In another stunning example of the clownworld we see Ontario MPP Rick
+          >In another stunning example of the CLOWNWORLD we see Ontario MPP Rick
           Nicholls mention a massive increase in still births by women who've
           taken the fauxine. This is being directly reported by doctors in his
-          riding. For daring to quesiton the fauxine he is heckled by his peers.
-          We then get the amazing clownworld response from a perfect example of
+          riding. For daring to queston the fauxine he is heckled by his peers.
+          We then get the amazing CLOWNWORLD response from a perfect example of
           a Clown the Ontario Minister of Health Christine Elliott. "The fauxine
           is safe (LIES -- it's not) and effective (MORE LIES -- it doesn't
           work) and pregnant women should take this dangerous, experimental gene
@@ -89,7 +89,7 @@
         <br />
         <p2
           >From the Nazi's down under here is an Australian Premier going off on
-          "Anti-Vaxxers'. Like it's ilegal or something to be ashamed of. Yeah
+          "Anti-Vaxxers'. Like it's illegal.  Imagine calling someone who has taken this bioweapon TWICE an "anti-vaxxer"!  What a retard! Yeah
           I'm anti-this-vaxx you degenerate little puke and I'm anti lying
           demons like yourself. Imagine shilling for a fauxine THAT DOESN'T EVEN
           WORK.</p2
@@ -106,12 +106,12 @@
         ></iframe>
         <br />
         <p2>
-          Wonder how much this prick is geting paid by Pfizer. Hopefully it's
+          Wonder how much this prick is getting paid by Pfizer. Hopefully it's
           enough to buy the ganja and the therapy this snapshow so obviously
           needs.</p2
         >
         <br />
-        <p2>CLOWNWORLD AUSTRALIAN STYLE</p2>
+        <p2>CLOWNWORLD Australian style!</p2>
         <br />
         <p>---------------</p>
         <br />
@@ -155,7 +155,7 @@
         <br />
         <p2
           >The response by the "elected liars"? To turn of his microphone and
-          demand his silence of course. This is the clownworld after all what
+          demand his silence of course. This is the CLOWNWORLD after all what
           else did you expect from these treasonous snakes!?!</p2
         >
         <br />
@@ -163,7 +163,7 @@
         <p>---------------</p>
         <br />
         <p2
-          >Need a comedy injection? This injeciton is guaranteed to actually
+          >Need a comedy injection? This injection is guaranteed to actually
           work not like some other injections out there! If so, watch this video
           where comedian Jim Breuer (SNL, Half Baked) breaks down the current
           situation in a hilarious way!</p2
@@ -181,7 +181,7 @@
         <p2
           >Jim is on fire here and proves that he's certainly not half-BASED
           (haha). He's all the way down the rabbit hole and has seemingly
-          emerged from the clownworld!</p2
+          emerged from the CLOWNWORLD!</p2
         >
         <br />
         <br />
