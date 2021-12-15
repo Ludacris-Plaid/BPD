@@ -60,8 +60,8 @@
           >In another stunning example of the clownworld we see an Ontario MPP
           mention a massive increase in still births being reported by doctors
           in his riding. All while being heckled by his peers. We then get the
-          amazing clownworld response from a perfect excample of a Clown the Ontario Minister of
-          Health Christine Elliott.</p2
+          amazing clownworld response from a perfect excample of a Clown the
+          Ontario Minister of Health Christine Elliott.</p2
         >
         <br />
         <iframe
@@ -157,14 +157,17 @@
         <br />
         <br />
         <p>---------------</p>
-                <br />
+        <br />
         <p2
-          >Need a comedy injection?this injeciton is guaranteed to actually work not like some other injections out there!  If so, watch this video where comedian Jim Breuer (SNL, Half Baked) breaks down the current situation in a hilarious way!/p2
+          >Need a comedy injection? This injeciton is guaranteed to actually work
+          not like some other injections out there! If so, watch this video
+          where comedian Jim Breuer (SNL, Half Baked) breaks down the current
+          situation in a hilarious way!</p2
         >
         <iframe
           width="1280"
           height="720"
-          src="https://www.youtube.com/watch?v=_6MVo8sItio&t=8s"
+          src="https://www.youtube.com/embed/_6MVo8sItio"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -172,7 +175,9 @@
         ></iframe>
         <br />
         <p2
-          >Jim is on fire here and proves that he's certainly not half-BASED (haha).  He's all the way down the rabbit hole and has seemingly emerged from the clownworld!</p2
+          >Jim is on fire here and proves that he's certainly not half-BASED
+          (haha). He's all the way down the rabbit hole and has seemingly
+          emerged from the clownworld!</p2
         >
         <br />
         <br />
@@ -268,7 +273,6 @@ a:hover {
   text-decoration: underline;
 }
 p3 {
-   font-family: "Bebas Neue", cursive;
+  font-family: "Bebas Neue", cursive;
 }
-
 </style>
