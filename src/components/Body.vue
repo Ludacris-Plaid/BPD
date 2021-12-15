@@ -282,4 +282,7 @@ a:hover {
 p3 {
   font-family: "Bebas Neue", cursive;
 }
+img {
+  border-radius: 10px;
+}
 </style>
