@@ -23,15 +23,18 @@
         <a href="https://blackpilldiaries.substack.com"
           ><small>The Black PillDiaries on Substack</small></a
         >
-        <br>
-        <br>
-        <a href="mailto:indicationsmedia@protonmail.com"><small>Email The BlackPill Diaries</small></a>
+        <br />
+        <br />
+        <a href="mailto:indicationsmedia@protonmail.com"
+          ><small>Email The BlackPill Diaries</small></a
+        >
         <p>---------------</p>
         <p2
           >Here is a perfect example of the clownworld. Watch as a Canadian MP
           asks a dozen of our "elected officials" (including the finance
-          minister) where 7 BILLION dollars is coming from needed to pay for the
-          newest round of insane COVID spending.</p2
+          minister) where the 7 BILLION dollars is coming from needed to pay for
+          the newest round of insane COVID spending. No one seems to have an
+          answer!</p2
         >
         <br />
         <iframe
@@ -45,11 +48,11 @@
         ></iframe>
         <br />
         <p2
-          >Not one of these baffoons making 200k a year is even brave enough to
+          >Not one of these bafoons making 200k a year is even brave enough to
           speak up.</p2
         >
         <br />
-        <p2> CLOWNWORLD AT ITS FINEST.</p2>
+        <p2> Clownworld at it's absolute finest.</p2>
         <br />
         <p>---------------</p>
         <br />
@@ -57,8 +60,8 @@
           >In another stunning example of the clownworld we see an Ontario MPP
           mention a massive increase in still births being reported by doctors
           in his riding. All while being heckled by his peers. We then get the
-          amazing clownworld response from a Queen of Clowns Christine
-          Elliott.</p2
+          amazing clownworld response from a perfect excample of a Clown the Ontario Minister of
+          Health Christine Elliott.</p2
         >
         <br />
         <iframe
@@ -100,7 +103,7 @@
         <br />
         <p2>
           Wonder how much this prick is geting paid by Pfizer. Hopefully it's
-          enough to buy the ganga and the therapy this snapshow so obviously
+          enough to buy the ganja and the therapy this snapshow so obviously
           needs.</p2
         >
         <br />
@@ -131,11 +134,54 @@
         <br />
         <p>---------------</p>
         <br />
+        <p2
+          >In another video from the Ontario house of lies, watch as MPP Randy
+          Hillier demands answers about COVID camps in Canada that we all know
+          are being built as we speak.</p2
+        >
+        <iframe
+          width="1280"
+          height="720"
+          src="https://www.youtube.com/embed/yxP0YReuxRk"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+        <br />
+        <p2
+          >The response by the "elected liars"? To turn of his microphone and
+          demand his silence of course. This is the clownworld after all what
+          else did you expect from these treasonous snakes!?!</p2
+        >
+        <br />
+        <br />
+        <p>---------------</p>
+                <br />
+        <p2
+          >Need a comedy injection?this injeciton is guaranteed to actually work not like some other injections out there!  If so, watch this video where comedian Jim Breuer (SNL, Half Baked) breaks down the current situation in a hilarious way!/p2
+        >
+        <iframe
+          width="1280"
+          height="720"
+          src="https://www.youtube.com/watch?v=_6MVo8sItio&t=8s"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+        <br />
+        <p2
+          >Jim is on fire here and proves that he's certainly not half-BASED (haha).  He's all the way down the rabbit hole and has seemingly emerged from the clownworld!</p2
+        >
+        <br />
+        <br />
+        <p>---------------</p>
       </div>
       <div id="main-row-2"></div>
       <div id="main-row-3">
         <P>Check Back soon...</P>
-        <p2>&#169; 2021 Indications Media</p2>
+        <p3>&#169; 2021 Indications Media</p3>
       </div>
     </div>
     <div id="body-main-3">
@@ -191,7 +237,7 @@ export default {};
   /* align-items: center; */
 }
 p2 {
-  font-family:"Permanent Marker", cursive
+  font-family: "Permanent Marker", cursive;
 }
 #main-row-1 {
   align-items: center;
@@ -214,13 +260,15 @@ iframe {
 small {
   font-family: "Bebas Neue", cursive;
   font-size: 20px;
-
 }
 a:link {
   text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
+}
+p3 {
+   font-family: "Bebas Neue", cursive;
 }
 
 </style>
