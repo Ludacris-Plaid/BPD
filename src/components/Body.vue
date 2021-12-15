@@ -185,10 +185,6 @@
         <br />
         <p>---------------</p>
         <br>
-        <img src="/science_meme.jpg">
-        <br>
-        <p>---------------</p>  
-        <br>
         <img src= "/MSMnews_meme.jpg">
         <br>
         <p>---------------</p>  
