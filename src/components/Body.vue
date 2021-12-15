@@ -57,11 +57,15 @@
         <p>---------------</p>
         <br />
         <p2
-          >In another stunning example of the clownworld we see an Ontario MPP
-          mention a massive increase in still births being reported by doctors
-          in his riding. All while being heckled by his peers. We then get the
-          amazing clownworld response from a perfect excample of a Clown the
-          Ontario Minister of Health Christine Elliott.</p2
+          >In another stunning example of the clownworld we see Ontario MPP Rick
+          Nicholls mention a massive increase in still births by women who've
+          taken the fauxine. This is being directly reported by doctors in his
+          riding. For daring to quesiton the fauxine he is heckled by his peers.
+          We then get the amazing clownworld response from a perfect example of
+          a Clown the Ontario Minister of Health Christine Elliott. "The fauxine
+          is safe (LIES -- it's not) and effective (MORE LIES -- it doesn't
+          work) and pregnant women should take this dangerous, experimental gene
+          therapy! (said no one ever...except this clown.)</p2
         >
         <br />
         <iframe
@@ -137,7 +141,7 @@
         <p2
           >In another video from the Ontario house of lies, watch as MPP Randy
           Hillier demands answers about COVID camps in Canada that we all know
-          are being built as we speak.</p2
+          are being built as we speak and will be used to detain Canadians.</p2
         >
         <iframe
           width="1280"
@@ -159,8 +163,8 @@
         <p>---------------</p>
         <br />
         <p2
-          >Need a comedy injection? This injeciton is guaranteed to actually work
-          not like some other injections out there! If so, watch this video
+          >Need a comedy injection? This injeciton is guaranteed to actually
+          work not like some other injections out there! If so, watch this video
           where comedian Jim Breuer (SNL, Half Baked) breaks down the current
           situation in a hilarious way!</p2
         >
