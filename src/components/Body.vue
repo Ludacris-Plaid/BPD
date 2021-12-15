@@ -63,9 +63,8 @@
           riding. For daring to queston the fauxine he is heckled by his peers.
           We then get the amazing CLOWNWORLD response from a perfect example of
           a Clown the Ontario Minister of Health Christine Elliott. "The fauxine
-          is safe (LIES -- it's not) and effective (MORE LIES -- it doesn't
-          work) and pregnant women should take this dangerous, experimental gene
-          therapy! (said no one ever...except this clown.)</p2
+          is safe (LIES -- it's not) and effective (MORE LIES -- it's not) and pregnant women should take this dangerous experimental gene
+          therapy!"" (said no one ever...except this clown.)</p2
         >
         <br />
         <iframe
