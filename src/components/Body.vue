@@ -191,7 +191,10 @@
         <br />
         <p>---------------</p>
         <br />
-        <p2>Here in another sublime example of the clownworld we are shown the MSM news 6 months ago...</p2>
+        <p2
+          >Here in another sublime example of the clownworld we are shown the
+          MSM news 6 months ago...</p2
+        >
         <iframe
           class="rumble"
           width="760"
@@ -200,7 +203,10 @@
           frameborder="0"
           allowfullscreen
         ></iframe>
-        <p2>And the MSM news today.  Clownworld at it's finest here people.  Trust the $cience.</p2>
+        <p2
+          >And the MSM news today. Clownworld at it's finest here people. Trust
+          the $cience.</p2
+        >
         <br />
         <p>---------------</p>
         <br />
@@ -220,6 +226,22 @@
         </p>
         <br />
         <p>---------------</p>
+        <br />
+        <p2
+          >This is a lecture by Soviet propaganda agent and Canadian defector
+          Yuri Bezmanov. This lecture was filmed in 1984, but it perfectly
+          describes the CLOWNWORLD we currently find ourselves navigating.</p2
+        >
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/GwDdJsdYM3g"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+        <p2>This is an absolute must see if you need answers on how we got to the CLOWNWORLD and how this has all been by design.  No question -- this is one of the ultimate blackpills out there.
         <br />
       </div>
       <div id="main-row-2"></div>
