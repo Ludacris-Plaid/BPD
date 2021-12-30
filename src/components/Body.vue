@@ -313,8 +313,10 @@
           allowfullscreen
         ></iframe>
         <p2
-          >You know -- only the complete wargaming of the exact scenerio, sometimes word for word in the media, 5 months prior to the actual COVID breakout.  This is CLOWNWORLD by numbers people.  A completely designed sham from top to inverted bottom. 6uild 6ack 6etter!</p2
+          >You know -- only the complete wargaming of the exact scenerio, sometimes word for word in the media, 5 months prior to the actual COVID breakout.  This is CLOWNWORLD by numbers people.  A completely designed sham from top to inverted bottom.</p2
         >
+        <br>
+        <p2>6uild 6ack 6etter!</p2>
         <br />
         <p>---------------</p>
         
