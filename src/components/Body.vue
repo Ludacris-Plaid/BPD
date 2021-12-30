@@ -215,16 +215,7 @@
         >
         <br />
         <p>---------------</p>
-        <br />
-        <br />
-        <iframe
-          src="https://giphy.com/embed/VbEloWwOz3QqYBsqIZ"
-          width="760"
-          height="430"
-          frameBorder="0"
-          class="giphy-embed"
-          allowFullScreen
-        ></iframe>
+
         <p>
           <a
             href="https://giphy.com/gifs/OTHERCOLORS-matrix-illusion-already-been-made-VbEloWwOz3QqYBsqIZ"
@@ -252,10 +243,23 @@
         <br />
         <p>---------------</p>
         <br />
-        <p2>How could we have a page dedicated to the CLOWNWORLD without pluggin local Edmonton boy Tom McDonald?</p2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/koO35JqBQMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p2>How could we have a page dedicated to the CLOWNWORLD without mentioning local Edmonton boy Tom McDonald?</p2>
+        <iframe width="760" height="315" src="https://www.youtube.com/embed/koO35JqBQMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
         <p2>This is his amazing video titled, aptly enough, CLOWNWORLD.</p2>
+        <br>
+        <br />
+        <p>---------------</p>
+                <br />
+        <br />
+        <iframe
+          src="https://giphy.com/embed/VbEloWwOz3QqYBsqIZ"
+          width="760"
+          height="430"
+          frameBorder="0"
+          class="giphy-embed"
+          allowFullScreen
+        ></iframe>
         <br>
         <br />
         <p>---------------</p>
