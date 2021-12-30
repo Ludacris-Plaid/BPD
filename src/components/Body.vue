@@ -302,7 +302,7 @@
          <br>
         <br />
         <p2
-          >So you still don't believe the CLOWNWORLD was made by design?  Oh -- I guess you haven't heard of Event 201?".</p2
+          >So you still don't believe the CLOWNWORLD was made by design?  Oh -- I guess you haven't heard of Event 201?.</p2
         >
         <iframe
           class="rumble"
