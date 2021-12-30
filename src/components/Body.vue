@@ -21,13 +21,17 @@
         <br />
         <h2>I encourage you to check out my substack!</h2>
         <a href="https://blackpilldiaries.substack.com"
-          ><small>The Black PillDiaries on Substack</small></a
+          ><small>The BlackPill Diaries on Substack</small></a
         >
         <br />
         <br />
         <a href="mailto:indicationsmedia@protonmail.com"
           ><small>Email The BlackPill Diaries</small></a
         >
+                <a href="https://indicationsmedia.xyz"
+          ><small>Indications Media's Homepage</small></a
+        >
+        <br />
         <p>---------------</p>
         <p2
           >Here is a perfect example of the clownworld. Watch as a Canadian MP
@@ -213,8 +217,8 @@
         <br />
         <iframe
           src="https://giphy.com/embed/VbEloWwOz3QqYBsqIZ"
-          width="480"
-          height="480"
+          width="760"
+          height="430"
           frameBorder="0"
           class="giphy-embed"
           allowFullScreen
@@ -233,8 +237,8 @@
           describes the CLOWNWORLD we currently find ourselves navigating.</p2
         >
         <iframe
-          width="560"
-          height="315"
+          width="760"
+          height="430ß"
           src="https://www.youtube.com/embed/GwDdJsdYM3g"
           title="YouTube video player"
           frameborder="0"
