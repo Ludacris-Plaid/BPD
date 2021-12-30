@@ -28,6 +28,7 @@
         <a href="mailto:indicationsmedia@protonmail.com"
           ><small>Email The BlackPill Diaries</small></a
         >
+        <br>
                 <a href="https://indicationsmedia.xyz"
           ><small>Indications Media's Homepage</small></a
         >
