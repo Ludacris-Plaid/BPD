@@ -29,6 +29,7 @@
           ><small>Email The BlackPill Diaries</small></a
         >
         <br>
+        <br>
                 <a href="https://indicationsmedia.xyz"
           ><small>Indications Media's Homepage</small></a
         >
