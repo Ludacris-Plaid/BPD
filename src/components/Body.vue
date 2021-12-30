@@ -191,6 +191,19 @@
         <br />
         <p>---------------</p>
         <br />
+        <p2>Here in another sublime example of the clownworld we are shown the MSM news 6 months ago...</p2>
+        <iframe
+          class="rumble"
+          width="760"
+          height="430"
+          src="https://rumble.com/embed/vp0js2/?pub=s4jw6"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+        <p2>And the MSM news today.  Clownworld at it's finest here people.  Trust the $cience.</p2>
+        <br />
+        <p>---------------</p>
+        <br />
         <br />
         <iframe
           src="https://giphy.com/embed/VbEloWwOz3QqYBsqIZ"
@@ -203,8 +216,7 @@
         <p>
           <a
             href="https://giphy.com/gifs/OTHERCOLORS-matrix-illusion-already-been-made-VbEloWwOz3QqYBsqIZ"
-            >via GIPHY</a
-          >
+          ></a>
         </p>
         <br />
         <p>---------------</p>
