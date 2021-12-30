@@ -27,7 +27,7 @@
           Our compliance has gotten us to this point -- STOP COMPLYING!
         </div>
         <div class="hitem">
-          The book of history is being written -- what will is say about YOU?
+          The book of history is being written -- what will it say about YOU?
         </div>
         <div class="hitem">
           Will you concede the freedoms prior generations died for -- without a
