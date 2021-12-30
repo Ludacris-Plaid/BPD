@@ -30,7 +30,7 @@
         >
         <br>
         <br>
-                <a href="https://indicationsmedia.xyz"
+                <a href="https://www.indicationsmedia.xyz"
           ><small>Indications Media's Homepage</small></a
         >
         <br />
