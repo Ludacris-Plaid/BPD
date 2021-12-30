@@ -299,6 +299,24 @@
         >
         <br />
         <p>---------------</p>
+         <br>
+        <br />
+        <p2
+          >So you still don't believe the CLOWNWORLD was made by design?  Oh -- I guess you haven't heard of Event 201?".</p2
+        >
+        <iframe
+          class="rumble"
+          width="760"
+          height="430"
+          src="https://rumble.com/embed/vomf4w/?pub=s4jw6"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+        <p2
+          >You know.  Only the complete wargaming of the exact scenerio, sometimes word for word in the media, 5 months prior to the actual COVID breakout.  This is CLOWNWORLD by numbers people.  A completely designed sham from top to inverted bottom.</p2
+        >
+        <br />
+        <p>---------------</p>
         
       </div>
       <div id="main-row-2"></div>
