@@ -243,6 +243,16 @@
         ></iframe>
         <p2>This is an absolute must see if you need answers on how we got to the CLOWNWORLD and how this has all been by design.  No question -- this is one of the ultimate blackpills out there.
         <br />
+        <br />
+        <p>---------------</p>
+        <br />
+        <p2>How could we have a page dedicated to the CLOWNWORLD without pluggin local Edmonton boy Tom McDonald?</p2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/koO35JqBQMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <p2>This is his amazing video titled, aptly enough, CLOWNWORLD.</p2>
+        <br>
+        <br />
+        <p>---------------</p>
       </div>
       <div id="main-row-2"></div>
       <div id="main-row-3">
