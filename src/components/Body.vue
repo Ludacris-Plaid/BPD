@@ -263,6 +263,24 @@
         <br>
         <br />
         <p>---------------</p>
+         <br>
+        <br />
+        <p2
+          >Who exactly is Bill Gates and what exactly is his agenda?  Why is this man obsessed with eugenics and depopulating the planet?</p2
+        >
+        <iframe
+          class="rumble"
+          width="760"
+          height="430"
+          src="https://rumble.com/embed/vmk5gz/?pub=s4jw6"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+        <p2
+          >Here is the indepth lowdown on one of the primary designers of the CLOWNWORLD by The Corbett Report (A fellow Albertan!)</p2
+        >
+        <br />
+        <p>---------------</p>
       </div>
       <div id="main-row-2"></div>
       <div id="main-row-3">
