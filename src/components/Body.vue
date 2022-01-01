@@ -17,6 +17,17 @@
     </div>
     <div id="body-main-2">
       <div id="main-row-1">
+        <br>
+        <p>---------------</p>
+        <br>
+        <h2>EMERGENCY VIDEO POSTING.  DECEMBER 31 2021.  FROM THE CHIEF CLOWN AND FASCIST PSYCHOPATHIC PEDOPHILE TRUDOH!
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Ko3VqL5xLOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <br>H2>
+          <h2>EVEN WITH THE OVERWHELMING TRUTH COMING OUT THAT THE FAUXINE DOESNT WORK WHATSOEVER THIS FUCKING PIECE OF SHIT WANTS TO MAKE STATEMENTS LIKE THESE.</h2>
+          <br>
+          <h2>THIS IS NO LESS THAN A DECLAIRATION OF WAR AGAINST THOSE WHO WONT BOW DOWN TO THIS FUCKING PSYCOPATHS FUCKING BULLSHIT.  FUCK YOU JUSTIN.  FUCKING COME AND MAKE ME YOU FUCKING CUNT I FUCKING DARE YOU.  UFA AND UHAUL BUDDY ILL SHOW YOU WHATS UP FAGGOT.</h2>
+
+
         <h1>THIS PAGE IS UNDER CONSTRUCTION</h1>
         <br />
         <h2>I encourage you to check out my substack!</h2>
